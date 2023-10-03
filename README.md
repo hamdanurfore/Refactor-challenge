@@ -37,7 +37,8 @@ These benefits are also mentioned:
 - Discover the digital marketing services offered by Horiseon Marketing Agency.
 - Understand how digital marketing can benefit your business.
 - Get in touch with Horiseon Marketing Agency for inquiries or services.
--  ![Horiseon website screenshot](assets/images/screenshot)
+  
+  ![Horiseon website screenshot](horiseon-webpage.png)
 
 ## Contributing
 
@@ -47,19 +48,18 @@ Contributions to this project are welcome. If you'd like to contribute:
 
 2. Create a new branch for your feature or improvement:
    ```bash
-   git checkout -b feature/new-feature
+   git checkout -b feature/new-feature.
    
 3. Make your changes and commit:
-  ```bash
-git commit -m "Add new feature"
+   ```bash
+   git commit -m "Add new feature"
 
-5. Push to your forked repository:
- ```bash
-git push origin feature/new-feature
+4. Push to your forked repository:
+   ```bash
+   git push origin feature/new-feature
 
-6. Create a pull request.
+5. Create a pull request.
 
-## License
+   ## License
 
-This project is licensed under the MIT License. For more details, see the LICENSE file.
-   
+   This project is licensed under the MIT License.
